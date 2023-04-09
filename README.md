@@ -1,22 +1,22 @@
-Project Title: Location Prediction using Markov Chain and Folium
+-  Project Title: Location Prediction using Markov Chain and Folium
 
-Overview:
+-  Overview:
 This project is focused on using Markov Chain and Folium to predict the location of a person based on their history location data. The data will be preprocessed and analyzed using NumPy, then trained using Markov Chain, and finally visualized using Folium to display the predicted location on a map.
 
 Dependencies:
 
-NumPy
-Folium
-Pandas
-Matplotlib
-Installation:
+-  NumPy
+- Folium
+- Pandas
+- Matplotlib
+- Installation:
 
 Ensure that Python is installed on your computer.
 Open your terminal or command prompt.
 Install the dependencies using pip or conda package manager.
 pip install numpy folium pandas matplotlib
 conda install numpy folium pandas matplotlib
-Usage:
+-  Usage:
 
 Download or clone the project from the Github repository.
 Open the command prompt and navigate to the project directory.
